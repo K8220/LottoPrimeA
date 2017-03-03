@@ -1,0 +1,2 @@
+# LottoPrimeA
+Notsoprime
